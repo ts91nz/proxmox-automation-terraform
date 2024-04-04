@@ -1,0 +1,5 @@
+# Ignore files and directories.
+*.tfstate
+*.tfstate.backup
+*.lock.*
+.terraform/
